@@ -1,0 +1,44 @@
+{
+  "usuarios": [
+    {
+      "nome": "Carlos Henrique",
+      "cpf": "317.263.718-24",
+      "email": "carlos@gmail.com",
+      "telefone": "19994567897",
+      "funcao": "Estagiário",
+      "perfil": "Gestor Estadual",
+      "situacao": true,
+      "id": 2
+    },
+    {
+      "nome": "Higor",
+      "cpf": "317.263.718-24",
+      "email": "higordel@hotmail.com",
+      "telefone": "19994567897",
+      "funcao": "Desenvolvedor Java ",
+      "perfil": "Gestor Estadual",
+      "situacao": true,
+      "id": 3
+    },
+    {
+      "nome": "luis@gmail.com",
+      "cpf": "317.263.718-24",
+      "email": "Luis Ribeiro",
+      "telefone": "19994567897",
+      "funcao": "estagiario",
+      "perfil": "Gestor Nacional",
+      "situacao": true,
+      "id": 6
+    },
+    {
+      "nome": "Luiza",
+      "cpf": "317.263.718-24",
+      "email": "luiza@gmail.com",
+      "telefone": "19994567897",
+      "funcao": "analista",
+      "perfil": "Gestor Nacional",
+      "situacao": "true",
+      "id": 7
+    }
+  ]
+}
